@@ -1,0 +1,15 @@
+{
+    "optionList": {
+        "1": {
+            "value": "localhost",
+            "key": "alluxio.master.hostname",
+            "constraint": "STR"
+        }, 
+        "2": {
+            "value": "MEM",
+            "key": "alluxio.worker.tieredstore.level0.alias",
+            "constraint": "STR"
+        }
+    },
+    "format": "$key=$value"
+}

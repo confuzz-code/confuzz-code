@@ -1,0 +1,17 @@
+.*
+!.gitignore
+confuzz/.DS_Store
+confuzz/core/.DS_Store
+confuzz/modules/.Ds_Store
+*.txt
+*.log
+*.pyc
+*.zip
+*.rdb
+*.txt2
+*.tar.gz
+*.seg
+*.toc
+*.col
+*.xls
+*.csv
